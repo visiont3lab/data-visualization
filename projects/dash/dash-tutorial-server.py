@@ -2,17 +2,29 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from pyngrok import ngrok
+import webbrowser
+
 
 # Design
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 colors = {
-    'background': '#111111',
-    'text': '#7FDBFF'
+    'background': 'rgb(255,255,255)',
+    'text': 'rgb(0,0,0)'
 }
 
 # Introduction
-markdown_text = '''
-### COVID-19 
+introduction_md = '''
+## Introduzione
+L'obbiettivo di questa dashboard é l'analisi dell'andamento del Corona Virus in italia.
+Per crearla ci inspireremo alla [dashboard della protezione civile italiana](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1).
+Quest'ultima utilizza il [seguente dataset pubblico](https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni).
+La sottostante dashboard é realizzata usando la libreria [Dash plotly](https://dash-gallery.plotly.host/Portal/)
+'''
+
+description_md = '''
+## Descrizione del dataset
+
 L'obbiettivo di questa dashboard é l'analisi dell'andamento del Corona Virus in italia.
 Per crearla ci inspireremo alla [dashboard della protezione civile italiana](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1).
 Quest'ultima utilizza il [seguente dataset pubblico](https://github.com/pcm-dpc/COVID-19/tree/master/dati-regioni).
@@ -20,22 +32,23 @@ La sottostante dashboard é realizzata usando la libreria [Dash plotly](https://
 '''
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+
 app.layout = html.Div(
     style={'backgroundColor': colors['background']},
     children=[
 
         html.H1(
-            children='Corona Virus Analysis',
+            children='COVID-19 Analysiss',
             style={
+                'textAlign': 'center',
                 'color': colors['text']
                 }
             ),
         
          html.Div(
             dcc.Markdown(
-                children=markdown_text,
+                children=introduction_md,
                 style={
-                    'textAlign': 'center',
                     'color': colors['text']
                 }
             )
@@ -68,6 +81,7 @@ app.layout = html.Div(
 ])
 
 if __name__ == '__main__':
-    
     # debug true allows hot reloading
-    app.run_server(debug=True,host='0.0.0.0')
+    app.run_server(debug=False,host='127.0.0.1', port=8050)
+
+    
