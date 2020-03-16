@@ -1,9 +1,7 @@
+channels:
+  conda-forge
 dependencies:
-  - conda-forge::jupyterlab>=1.0
-  - conda-forge::numpy
-  - conda-forge::jupyter-server-proxy
-  - conda-forge::code-server
-  - conda::bokeh
-  - conda::jupyter_bokeh
-  - conda::plotly
-  - conda-forge::jupyterlab-dash=0.1.0a3
+  - pip
+  - pip:
+      - pip install numpy jupyter-server-proxy "jupyterlab>=1.0" jupyterlab-dash==0.1.0a3 jupyterlab_iframe bokeh jupyter_bokeh
+    - code-server
