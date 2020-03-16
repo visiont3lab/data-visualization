@@ -35,6 +35,7 @@ FIGURE = create_plot(
     name=df["NAME"],
 )
 
+
 app.layout = html.Div(
     [
         html.Div(
