@@ -12,7 +12,7 @@ jupyter labextension install @bokeh/jupyter_bokeh
 jupyter serverextension enable --py jupyterlab_iframe
 jupyter serverextension enable --py jupyter_server_proxy
 jupyter nbextension enable --py jupyter_bokeh  
-jupyter nbextension enable --py jupyterlab-dash
+jupyter nbextension enable --py jupyterlab-dash@0.1.0-alpha.3
 
 jupyter lab build
 
