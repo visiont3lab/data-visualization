@@ -1,7 +1,10 @@
 channels:
   - conda-forge
+  - conda
 dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server
+  - jupyterlab-dash
+  - jupyter_bokeh
 
