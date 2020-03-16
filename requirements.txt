@@ -4,3 +4,4 @@ jupyterlab-dash==0.1.0a3
 jupyter_bokeh==2.0.0
 bokeh==2.0.0
 jupyterlab_iframe==0.2.2
+pandas==1.0.2 
