@@ -1,0 +1,6 @@
+numpy==1.18.1
+jupyter-server-proxy==1.2.0
+jupyterlab-dash==0.1.0a3
+jupyter_bokeh==2.0.0
+bokeh==2.0.0
+jupyterlab_iframe==0.2.2
