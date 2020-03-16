@@ -4,5 +4,4 @@ dependencies:
   - numpy
   - jupyter-server-proxy
   - code-server
-  - pip:
-    - -r file:requirements.txt
+
