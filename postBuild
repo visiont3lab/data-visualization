@@ -8,7 +8,7 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install @bokeh/jupyter_bokeh
 jupyter lab build
 
-code-server --install-extension ms-python.python
+#code-server --install-extension ms-python.python
 
 # Install the VS code proxy
 pip install -e.
