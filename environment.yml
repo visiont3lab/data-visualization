@@ -7,6 +7,7 @@ dependencies:
     - jupyter-server-proxy 
     - "jupyterlab>=1.0" 
     - jupyterlab-dash==0.1.0a3
-    - jupyterlab_iframe bokeh 
+    - jupyterlab_iframe
+    - bokeh 
     - jupyter_bokeh
   - code-server
