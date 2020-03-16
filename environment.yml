@@ -1,10 +1,9 @@
-channels:
-  - conda-forge
-  - conda
 dependencies:
-  - numpy
-  - jupyter-server-proxy
-  - code-server
-  - jupyterlab-dash
-  - jupyter_bokeh
-
+  - conda-forge::jupyterlab>=1.0
+  - conda-forge::numpy
+  - conda-forge::jupyter-server-proxy
+  - conda-forge::code-server
+  - conda::bokeh
+  - conda::jupyter_bokeh
+  - conda::plotly
+  - conda-forge::jupyterlab-dash=0.1.0a3

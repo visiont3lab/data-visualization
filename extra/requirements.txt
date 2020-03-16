@@ -1,0 +1,7 @@
+opencv-python==4.2.0.32
+scikit-learn==0.22.2
+matplotlib==3.2.0
+numpy==1.18.1
+jupyter-server-proxy==1.2.0
+jupyterlab-dash==0.1.0a3
+jupyter_bokeh==2.0.0
