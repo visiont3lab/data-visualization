@@ -2,6 +2,7 @@
 Corso di data visualization 
 
 * [Github Repository](https://github.com/visiont3lab/data-visualization)
+* [Website](https://visiont3lab.github.io/data-visualization/)
 
 ## Materiale del corso
 
