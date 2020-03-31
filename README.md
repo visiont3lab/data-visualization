@@ -12,4 +12,4 @@ Corso di data visualization
     * Esercitazione.ipynb  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/Esercitazione.ipynb)
 
 2. (2019/04/01) Pandas 
-    * Pandas.ipynb: Libreia Pandas Spiegazione ed esempi:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/02_Pandas/Pandas.ipynb)
+    * Pandas.ipynb: Libreia Pandas Spiegazione ed esempi:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas.ipynb)
