@@ -1,4 +1,4 @@
-# Big Data Lab 2019-2020
+# Big Data Lab DATA VISUALIZATION 2019-2020
 Corso di data visualization 
 
 * [Github Repository](https://github.com/visiont3lab/data-visualization)
@@ -10,4 +10,5 @@ Corso di data visualization
     * 1.1_Intro.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/1.1_Intro.ipynb)
     * Esercitazione.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/Esercitazione.ipynb)
 
-2. (2019/04/01) Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/02_Pandas/Pandas.ipynb)
+2. (2019/04/01) Pandas 
+    * Pandas Library: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/02_Pandas/Pandas.ipynb)
