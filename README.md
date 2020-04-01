@@ -13,4 +13,4 @@ Corso di data visualization
     * Pandas.ipynb: Libreia Pandas Spiegazione ed esempi:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas.ipynb)
 
 3. (2020/04/02) Introduzione a Python parte2 ed Introduzione a Matplotlib.
-    * 1.1_Intro.ipynb : Algebra Booleana, Esercizi, introduzione a funzioni e librerie  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/1.1_Intro.ipynb)
+    * 1.1_Intro.ipynb : Algebra Booleana, Esercizi, introduzione a funzioni e librerie  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/1.1_Intro.xxxxxxxxxxxxxxxxxxxxxxxxxipynb)
