@@ -19,7 +19,7 @@ Corso di data visualization
     * 4.1_Matplotlib.ipynb : Funzioni e librerie di Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/04_Matplotlib/4.1_Matplotlib.ipynb)
     
 5. (2020/04/07) Featured di Matplotlib.
-    * 5.1_Matplotlib_esempi(tosolve).ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.1_Matplotlib_esempi(tosolve).ipynb)
-    * 5.2_Iris.ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.2_Iris.ipynb)  
+    * 5.1_Matplotlib_esempi(tosolve).ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.1_Matplotlib_esempi(tosolve).ipynb*)
+    * 5.2_Iris.ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.2_Iris.ipynb*)  
 
 
