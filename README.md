@@ -16,7 +16,9 @@ Corso di data visualization
     * 1.1_Intro.ipynb : Algebra Booleana, Esercizi, introduzione a funzioni e librerie  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/01_Intro/1.1_Intro.ipynb)
 
 4. (2020/04/06) Featured di Matplotlib.
-    * 4.1_Matplotlib.ipynb : Funzioni e librerie di matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/04_Matplotlib/4.1_Matplotlib.ipynb)
+    * 4.1_Matplotlib.ipynb : Funzioni e librerie di Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/04_Matplotlib/4.1_Matplotlib.ipynb)
     
+4. (2020/04/06) Featured di Matplotlib.
+    * 5.1_Matplotlib_esempi(tosolve).ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.1_Matplotlib_esempi(tosolve).ipynb*)
     
-    
+
