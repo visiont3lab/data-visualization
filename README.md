@@ -23,11 +23,12 @@ Corso di data visualization
     * 5.2_Iris.ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.2_Iris.ipynb)  
     
 6. (2020/04/08) Pandas Analisi e Plot: Esempio Reale (parte 1)
-    * Pandas_Esercizio.ipynb : Esempio pratico su Corona Virus dataset provinciale. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio.ipynb)
+    * Pandas_Esercizio.ipynb : Esempio (PARTE 1) pratico su Corona Virus dataset provinciale. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio.ipynb)
 
 7. (2020/04/09) Pandas, Matplotlib Custom Plot, Dash intro: Esempio Reale (parte 2)
-    * Pandas_Esercizio.ipynb : Esempio pratico su Corona Virus dataset provinciale, matplotlib customization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_dashweb.ipynb)
-
+    * Pandas_Esercizio.ipynb : Esempio pratico (PARTE 2) su Corona Virus dataset provinciale, matplotlib customization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_dashweb.ipynb)
+    * Pandas_Esercizio_Soluzione.ipynb: : Soluzione Esercizio pulita.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_Soluzione.ipynb)
+    
 
 
 
