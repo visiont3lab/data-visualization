@@ -30,7 +30,7 @@ Corso di data visualization
     * Pandas_Esercizio_Soluzione.ipynb: : Soluzione Esercizio pulita.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_Soluzione.ipynb)
  
  8. (2020/04/15) Iris e regressioni: Esempio Reale (parte 1)
-    * 8.1_Iris.ipynb : Iris con seaborn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/8.1_Iris.ipynb.ipynb)
+    * 8.1_Iris.ipynb : Iris con seaborn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/8.1_Iris.ipynb)
     * esercizio da svolgere.ipynb : Tips dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/to_solve_tips.ipynb)
 
 
