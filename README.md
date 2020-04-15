@@ -28,7 +28,9 @@ Corso di data visualization
 7. (2020/04/09) Pandas, Matplotlib Custom Plot, Dash intro: Esempio Reale (parte 2)
     * Pandas_Esercizio.ipynb : Esempio pratico (PARTE 2) su Corona Virus dataset provinciale, matplotlib customization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_dashweb.ipynb)
     * Pandas_Esercizio_Soluzione.ipynb: : Soluzione Esercizio pulita.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/02_Pandas/Pandas_Esercizio_Soluzione.ipynb)
-    
+ 
+ 8. (2020/04/15) Iris e regressioni: Esempio Reale (parte 1)
+    * 8.1_Iris.ipynb : Esempi ed plot con Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/5.1_Matplotlib_esempi(tosolve).ipynb)
 
 
 
