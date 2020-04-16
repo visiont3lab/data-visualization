@@ -34,5 +34,5 @@ Corso di data visualization
     * esercizio da svolgere.ipynb : Tips dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/05_Matplotlib_Iris/to_solve_tips.ipynb)
 
 9. (2020/04/16) Tips e Boston: Introduzione Regressioni Lineari e metriche (parte 1)
-    * 9.1_solut_tips.ipynb : Soluzione Tips [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/06_Dataset/9.1_solut_tips.ipynb)
-    * 9.2_housing.ipynb : Boston Housing dataset from sklearn (UCI)-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/06_Dataset/9.2_housing.ipynb)
+    * 9.1_solut_tips.ipynb : Soluzione Tips [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/06_Dataset/9.1_solut_tips.ipynb*)
+    * 9.2_housing.ipynb : Boston Housing dataset from sklearn (UCI)-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/06_Dataset/9.2_housing.ipynb*)
