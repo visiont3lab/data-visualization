@@ -39,6 +39,8 @@ Corso di data visualization
     
 10. (2020/04/17) : Google Colab Seaborn free Web Page using Github 
     * Github-GoogleDrive-GoogleColab.ipynb : Utilizzare Github-GoogleDrive-GoogleColab insieme e creare una presentazione web di un notebook  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/Setup/Github-GoogleDrive-GoogleColab.ipynb)
+ 
+11. (2020/04/18) : Seaborn 
     * Seaborn.ipynb : Seaborn Overview Libreria-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/seaborn/Seaborn.ipynb) 
     * Seaborn-Esercizio.ipynb : Seaborn Overview Libreria-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/seaborn/Seaborn-Esercizio.ipynb) 
- 
+
