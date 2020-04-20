@@ -46,4 +46,4 @@ Corso di data visualization
 
 12. (2020/04/20) Creazione di una dashboard usando figure statiche (Seaborn) e interative plotly
 courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
-    * Seaborn_Ploty_Basic_Dashboard.ipynb : Seaborn Overview Libreria [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb) 
+    * Seaborn_Ploty_Basic_Dashboard.ipynb : Creazione di una dashboard che contiene figure Matplotlib (statiche), figure interattive (plotly) e del testo (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb) 
