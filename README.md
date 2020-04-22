@@ -58,3 +58,4 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
     * Plotly  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Plotly.ipynb)
     * Dataset Covid19WW  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Covid19WW.ipynb)
     * Pandas_profiling  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Pandas_profiling.ipynb)
+    * GeoPandas  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Geo_Pandas.ipynb)
