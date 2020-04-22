@@ -48,4 +48,12 @@ Corso di data visualization
 courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
     * Seaborn_Ploty_Basic_Dashboard.ipynb : Creazione di una dashboard che contiene figure Matplotlib (statiche), figure interattive (plotly) e del testo (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb) 
 
-13 * Regressore.ipynb : regressore realcase (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/07_Realcase/Regressore.ipynb) 
+13. (2020/04/21) Regressione Lineare Multiple in un caso reale: 
+    * Regressione Lineare Multipla caso reale (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/07_Realcase/Regressore.ipynb) 
+
+14. (2020/04/22)  Esempi e librerie per Data Visualization
+    * Dataset Fire_Australia(markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Fire_Australia19.ipynb) 
+    * orms Colab & Bokeh (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Bokeh_forms.ipynb)
+    * Plotly (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Plotly.ipynb)
+    * Dataset Covid19WW (markdown) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Covid19WW.ipynb)
+
