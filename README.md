@@ -53,7 +53,7 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
 
 14. (2020/04/22)  Esempi e librerie per Data Visualization: 
     * Dataset Fire_Australia [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Fire_Australia19.ipynb) 
-    * Dataset Fire_Australia [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/GIS.ipynb) 
+    * Folium Features [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/GIS.ipynb) 
     * orms Colab & Bokeh  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Bokeh_forms.ipynb)
     * Plotly  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Plotly.ipynb)
     * Dataset Covid19WW  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Covid19WW.ipynb)
