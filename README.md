@@ -59,3 +59,6 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
     * Dataset Covid19WW  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Covid19WW.ipynb)
     * Pandas_profiling  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Pandas_profiling.ipynb)
     * GeoPandas  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/08_Plotly_Bokeh/Geo_Pandas.ipynb)
+
+15. (2020/04/27)  Wordcloud: 
+    * Dataset Fire_Australia [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/09_Wordcloud/wordcloud.ipynb) 
