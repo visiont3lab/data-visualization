@@ -63,3 +63,7 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
 15. (2020/04/27)  Wordcloud: 
     * Wordcloud [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/visiont3lab/data-visualization/blob/master/courses/09_Wordcloud/wordcloud_es.ipynb) 
     * SQL_Intro pdf [SQL_Intro pdf](https://github.com/visiont3lab/data-visualization/blob/master/courses/10_SQL_intro/SQL_Intro.pdf) 
+
+16. (2020/04/28) Plotly Dash Final Project
+   * [data-visualization-final-project](https://github.com/visiont3lab/data-visualization-final-project) Costruzione di una dashboard completa e deploy usando heroku. Approfondimento su mappe e tabelle.
+   
