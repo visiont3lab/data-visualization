@@ -65,5 +65,5 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
     * SQL_Intro pdf [SQL_Intro pdf](https://github.com/visiont3lab/data-visualization/blob/master/courses/10_SQL_intro/SQL_Intro.pdf) 
 
 16. (2020/04/28) Plotly Dash Final Project
-   * [data-visualization-final-project](https://github.com/visiont3lab/data-visualization-final-project) Costruzione di una dashboard completa e deploy usando heroku. Approfondimento su mappe e tabelle.
-   
+    * [data-visualization-final-project](https://github.com/visiont3lab/data-visualization-final-project) Costruzione di una dashboard completa e deploy usando heroku. Approfondimento su mappe e tabelle.
+
