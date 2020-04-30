@@ -69,6 +69,6 @@ courses/dashboard/Seaborn_Ploty_Basic_Dashboard.ipynb
     * [data-visualization-final-project](https://github.com/visiont3lab/data-visualization-final-project) Costruzione di una dashboard completa e deploy usando heroku. Approfondimento su mappe e tabelle.
 
 17. (2020/04/30) Data Storytelling:
-    * Tableau second part [SQL_Intro pdf](https://github.com/visiont3lab/data-visualization/blob/master/courses/10_SQL_intro/2_Tableau_2.pdf) 
-
-
+    * Tableau second part [Tableau_2nd_part](https://github.com/visiont3lab/data-visualization/blob/master/courses/10_SQL_intro/2_Tableau_2.pdf) 
+    * Opend-data [Opend_data pdf](https://github.com/visiont3lab/data-visualization/blob/master/courses/11_Storytelling/open-data.pdf) 
+    * Storytelling [Storytelling pdf](https://github.com/visiont3lab/data-visualization/blob/master/courses/11_Storytelling/SAP_Storytelling.pdf)
