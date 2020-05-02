@@ -1,4 +1,4 @@
-# Big Data Lab DATA VISUALIZATION 2019-2020
+# Big Data Lab DATA VISUALIZATION 2020
 Corso di data visualization 
 
 * [Github Repository](https://github.com/visiont3lab/data-visualization)
